@@ -1,2 +1,2 @@
 # AI-GO
-AI-GO Picture
+AI GO's Pictures
